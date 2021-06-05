@@ -2,7 +2,7 @@
 
 An AI to play tic-tac-toe, implemented using the minimax algorithm.  
 
-The minimax algorithm is an adversarial brute force search algorithm, where there are two players, one of which is trying to maximize a score, and the other is trying to minimize the score. The algorithm tries to optimize a player's move after considering all the possible states that the game can go through from that point onwards.  
+The minimax algorithm is an adversarial brute force recursive search algorithm, where there are two players, one of which is trying to maximize a score, and the other is trying to minimize the score. The algorithm tries to optimize a player's move after considering all the possible states that the game can go through from that point onwards.  
 
 In the case of tic-tac-toe, the algorithm tries to maximize the score for 'X', and tries to minimize the score for 'O'. 
 
